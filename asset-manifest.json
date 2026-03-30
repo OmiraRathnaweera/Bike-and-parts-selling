@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bike-and-parts-selling/static/css/main.791f2b3b.css",
+    "main.js": "/Bike-and-parts-selling/static/js/main.81d936e4.js",
+    "static/js/206.fedb7034.chunk.js": "/Bike-and-parts-selling/static/js/206.fedb7034.chunk.js",
+    "static/media/BikeVD.mp4": "/Bike-and-parts-selling/static/media/BikeVD.ec4a714ab2b6a902460f.mp4",
+    "static/media/Old-pic.png": "/Bike-and-parts-selling/static/media/Old-pic.9b9eed90a1822ecaaa25.png",
+    "static/media/SlideshowBanner01.jpg": "/Bike-and-parts-selling/static/media/SlideshowBanner01.8924553bbb1b250d1c9e.jpg",
+    "static/media/Discount.jpg": "/Bike-and-parts-selling/static/media/Discount.a4e855f3eaa81948ef67.jpg",
+    "static/media/SlideshowBanner02.jpg": "/Bike-and-parts-selling/static/media/SlideshowBanner02.702e4e420ba7fc3ea985.jpg",
+    "static/media/BikeSideImage.jpg": "/Bike-and-parts-selling/static/media/BikeSideImage.cd1bbb5138bd769793e3.jpg",
+    "static/media/LongBanner.jpg": "/Bike-and-parts-selling/static/media/LongBanner.17f65f9498f537f2ba05.jpg",
+    "static/media/Parts.jpg": "/Bike-and-parts-selling/static/media/Parts.44371bd3a1cfeb2cd0b3.jpg",
+    "static/media/MostSelling.jpg": "/Bike-and-parts-selling/static/media/MostSelling.1d7d8d47e70e47e9cc41.jpg",
+    "static/media/BusinessLogo.jpeg": "/Bike-and-parts-selling/static/media/BusinessLogo.a88a42e648522f60b0f4.jpeg",
+    "index.html": "/Bike-and-parts-selling/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.791f2b3b.css",
+    "static/js/main.81d936e4.js"
+  ]
+}
